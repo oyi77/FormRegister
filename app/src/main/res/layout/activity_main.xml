@@ -118,21 +118,21 @@
             android:text="Hobi" />
 
         <CheckBox
-            android:id="@+id/checkBox"
+            android:id="@+id/checkBoxMusic"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="false"
             android:text="Musik" />
 
         <CheckBox
-            android:id="@+id/checkBox2"
+            android:id="@+id/checkBoxBC"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="false"
             android:text="Membaca" />
 
         <CheckBox
-            android:id="@+id/checkBox3"
+            android:id="@+id/checkBoxOR"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="false"
@@ -147,6 +147,12 @@
             android:background="@drawable/bgbtn"
             android:text="Register"
             android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textViewHasil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Hasil" />
 
 
     </LinearLayout>
