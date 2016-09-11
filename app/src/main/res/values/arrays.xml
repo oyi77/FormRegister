@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="negara">
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Filiphina</item>
+        <item>Singapore</item>
+        <item>London</item>
+    </string-array>
+    <string-array name="tahun">
+        <item>1999</item>
+        <item>1998</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1991</item>
+    </string-array>
+</resources>
